@@ -1,4 +1,4 @@
-# Password Strength Checker 🔐
+# Password Strength Checker 
 
 ## About the Project
 This is a simple Python project that checks the strength of a password based on different conditions. It helps users understand whether their password is weak, medium, or strong.
